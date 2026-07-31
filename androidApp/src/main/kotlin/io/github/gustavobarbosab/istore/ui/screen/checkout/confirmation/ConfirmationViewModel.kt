@@ -1,4 +1,4 @@
-package io.github.gustavobarbosab.istore.ui.screen.confirmation
+package io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

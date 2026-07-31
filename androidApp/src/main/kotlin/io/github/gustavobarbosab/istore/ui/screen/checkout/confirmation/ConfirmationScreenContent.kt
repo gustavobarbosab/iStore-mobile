@@ -1,8 +1,8 @@
-package io.github.gustavobarbosab.istore.ui.screen.confirmation
+package io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import io.github.gustavobarbosab.istore.ui.screen.confirmation.component.PaymentProcessing
+import io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation.component.PaymentProcessing
 
 @Composable
 fun ConfirmationScreenContent(

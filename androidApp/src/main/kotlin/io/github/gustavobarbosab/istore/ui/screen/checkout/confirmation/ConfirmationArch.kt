@@ -1,4 +1,4 @@
-package io.github.gustavobarbosab.istore.ui.screen.confirmation
+package io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation
 
 import io.github.gustavobarbosab.istore.common.MviDelegateImpl
 

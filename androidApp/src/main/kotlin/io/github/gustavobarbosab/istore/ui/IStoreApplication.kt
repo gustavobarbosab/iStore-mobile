@@ -5,7 +5,7 @@ import io.github.gustavobarbosab.istore.data.di.DataModule
 import io.github.gustavobarbosab.istore.di.AppModule
 import io.github.gustavobarbosab.istore.domain.di.UseCaseModule
 import io.github.gustavobarbosab.istore.ui.screen.checkout.di.CheckoutModule
-import io.github.gustavobarbosab.istore.ui.screen.confirmation.di.ConfirmationModule
+import io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation.di.ConfirmationModule
 import io.github.gustavobarbosab.istore.ui.screen.detail.di.DetailModule
 import io.github.gustavobarbosab.istore.ui.screen.history.di.HistoryModule
 import io.github.gustavobarbosab.istore.ui.screen.home.di.HomeModule

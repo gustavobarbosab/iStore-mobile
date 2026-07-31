@@ -1,4 +1,4 @@
-package io.github.gustavobarbosab.istore.ui.screen.confirmation.component
+package io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation.component
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

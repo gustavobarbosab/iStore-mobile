@@ -19,7 +19,7 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
 import io.github.gustavobarbosab.istore.ui.screen.checkout.CheckoutScreen
-import io.github.gustavobarbosab.istore.ui.screen.confirmation.ConfirmationScreen
+import io.github.gustavobarbosab.istore.ui.screen.checkout.confirmation.ConfirmationScreen
 import io.github.gustavobarbosab.istore.ui.screen.detail.DetailScreen
 import io.github.gustavobarbosab.istore.ui.screen.history.HistoryScreen
 import io.github.gustavobarbosab.istore.ui.screen.home.HomeScreen

@@ -4,10 +4,10 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 import io.github.gustavobarbosab.istore.ui.navigation.AppNavigation
+import io.github.gustavobarbosab.istore.ui.theme.IStoreTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 private fun IStoreApp() {
     IStoreApplication {
-        MaterialTheme {
+        IStoreTheme {
             AppNavigation()
         }
     }
